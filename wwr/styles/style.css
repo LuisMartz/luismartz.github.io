@@ -16,6 +16,9 @@ nav a{
 #hero-msg h4{
     text-align: center;
 }
+.icon{
+    width: 80px;
+}
 .button-box{
     text-align: center;
 }
